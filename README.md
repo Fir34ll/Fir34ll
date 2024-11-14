@@ -1,13 +1,8 @@
-<div align="center">
-  <a href="https://github.com/andreinaoliveira">
-    <img align="center" src="Welcome.png" width="500">
-  </a>
-</div>
-<br>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=Fir34ll&color=ff69b4"><br>
 <div align="center">
   <a href="https://github.com/Fir34ll">
+    <img align="center" src="Welcome.png" width="500">
     <img align="center" src="Cyberpunk_lofi.gif" width="500">
   </a>
 </div>
