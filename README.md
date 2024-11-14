@@ -10,7 +10,7 @@
     <img align="center" src="Cyberpunk_lofi.gif" width="500">
   </a>
 </div>
-
+<br>
 
 <img align="center" alt="" src="./src/Cyberpunk_lofi.gif">
 
